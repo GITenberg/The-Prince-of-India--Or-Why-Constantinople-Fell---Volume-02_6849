@@ -1,0 +1,33 @@
+_repo: The-Prince-of-India--Or-Why-Constantinople-Fell---Volume-02_6849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revenge -- Fiction'
+- !lcsh 'Wandering Jew -- Fiction'
+- !lcsh 'Istanbul (Turkey) -- History -- Siege, 1453 -- Fiction'
+- !lcsh 'War stories'
+- !lcc 'PS'
+- !lcsh 'Immortalism -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Sieges -- Fiction'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Prince of India; Or, Why Constantinople Fell — Volume 02
+url: http://www.gutenberg.org/ebooks/6849
